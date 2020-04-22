@@ -1,3 +1,5 @@
+Author: Long Nguyen
+
 using DifferentialEquations, Flux, Zygote
 
 # Extend Zygote to work with Neural ODE

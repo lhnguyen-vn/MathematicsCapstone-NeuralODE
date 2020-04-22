@@ -1,4 +1,4 @@
-Author: Long Nguyen
+### Author: Long Nguyen
 
 using DifferentialEquations, Flux, Zygote
 
